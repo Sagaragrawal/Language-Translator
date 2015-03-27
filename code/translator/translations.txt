@@ -1,0 +1,4 @@
+hello	hola
+how	como
+are	son
+you	usted
